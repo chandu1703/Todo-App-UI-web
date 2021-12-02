@@ -1,0 +1,21 @@
+* {  
+    box-sizing: border-box;
+    height: 100%;
+}  
+.container{
+    background-image: url( ./triptoparis.png);  
+    height: 100%;
+     background-size: cover;
+    padding-left: 35%;
+    padding-top: 20%;
+} 
+.newlist{
+    background-color: white;
+border: 2px solid red;
+border-radius: 5%;
+
+width: 50%;
+height: 60%;
+padding: 20px;
+text-align: center;
+}
